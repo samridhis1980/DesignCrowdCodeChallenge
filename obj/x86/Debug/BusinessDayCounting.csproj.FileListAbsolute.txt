@@ -1,0 +1,12 @@
+C:\Users\Arbolino\Google Drive\Tech Code Challenge\The Date Game\BusinessDayCounting\bin\Debug\BusinessDayCounting.exe.config
+C:\Users\Arbolino\Google Drive\Tech Code Challenge\The Date Game\BusinessDayCounting\bin\Debug\BusinessDayCounting.exe
+C:\Users\Arbolino\Google Drive\Tech Code Challenge\The Date Game\BusinessDayCounting\bin\Debug\BusinessDayCounting.pdb
+C:\Users\Arbolino\Google Drive\Tech Code Challenge\The Date Game\BusinessDayCounting\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Arbolino\Google Drive\Tech Code Challenge\The Date Game\BusinessDayCounting\obj\x86\Debug\BusinessDayCounting.exe
+C:\Users\Arbolino\Google Drive\Tech Code Challenge\The Date Game\BusinessDayCounting\obj\x86\Debug\BusinessDayCounting.pdb
+C:\data\code\DesignCrowdCodeChallenge\BusinessDayCounting\bin\Debug\BusinessDayCounting.exe.config
+C:\data\code\DesignCrowdCodeChallenge\BusinessDayCounting\obj\x86\Debug\BusinessDayCounting.exe
+C:\data\code\DesignCrowdCodeChallenge\BusinessDayCounting\obj\x86\Debug\BusinessDayCounting.pdb
+C:\data\code\DesignCrowdCodeChallenge\BusinessDayCounting\obj\x86\Debug\BusinessDayCounting.csproj.CoreCompileInputs.cache
+C:\data\code\DesignCrowdCodeChallenge\BusinessDayCounting\bin\Debug\BusinessDayCounting.exe
+C:\data\code\DesignCrowdCodeChallenge\BusinessDayCounting\bin\Debug\BusinessDayCounting.pdb
